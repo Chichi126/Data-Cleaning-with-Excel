@@ -1,7 +1,5 @@
 # Data-Cleaning-with-Excel
 
- The provided dataset appears to contain information related to customer support interactions. Here's a description of the columns in the dataset:
-
 1. **id:** A unique identifier for each customer support interaction.
 
 2. **customer_name:** The name of the customer who initiated the support interaction
