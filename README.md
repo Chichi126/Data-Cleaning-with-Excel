@@ -93,12 +93,58 @@ I started with coping the Channel
 ![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/4096199f-98eb-4785-8a4f-3275dd01eb7e)
 
 
+**The Pivot Table**
+
+
 ![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/550cbae2-8110-4b03-beab-8ec41b4df427)
 
 
-![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/52de3643-b03f-4b6f-918a-2526dce8c68a)
+
+**My Dashboard**
+
+I created a chat first for each pivot table
+
+![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/25eed6ad-c52c-424e-9231-e2d4ba8625d1)
+
+Next was to create a slicer and connect all my charts for easy interaction, clicked on any of the slicers, went to the Slicer tab, and then  navigated to report connection and check on the pivot table's name
+
+![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/8f3e0d1d-a629-426a-b4d6-5891a4efbbca)
+
+![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/8753d7e9-fc44-4bac-9595-5fb74bafc6e4)
 
 
+# Call_Center Dashboard
+
+![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/4b8a4e30-294c-49b3-8057-137bffde0060)
+
+
+
+# Observation 
+
+
+1. **Call Volume:** The total inbound call volume of 32,941 indicates a significant level of interaction with customers. Among the reasons for calls, "Billing Question" had the highest number of callers, followed by "Payment" and "Service Outage."
+
+2. **Calls by Call Center Location:** The distribution of calls across different call center locations shows that "Baltimore/MD" received the highest number of calls, followed by "Los Angeles/CA," "Chicago/IL," and "Denver/CO."
+
+3. **Calls by Channel:** The distribution of calls by channel indicates that the majority of calls were handled by the "Call-Center" channel, followed by "Chatbot," "Email," and "Web." This suggests that the call center is the primary communication channel for customers.
+
+4. **Sentiment Analysis:** Analyzing customer sentiment, it is evident that there were a considerable number of "Negative" and "Very Negative" sentiments expressed by callers. "Neutral" and "Positive" sentiments were also observed, but to a lesser extent. Addressing negative sentiments could be crucial for improving customer satisfaction.
+
+5. **Calls by Response Time:** The categorization of calls based on response time indicates that a significant number of calls were handled "Within SLA" (Service Level Agreement). However, there were still a notable number of calls categorized as "Above SLA." This suggests an opportunity to improve response times for these calls.
+
+# Recommendations:
+
+1. **Focus on Billing Questions:** Given the high volume of calls related to billing questions, consider streamlining and automating billing inquiries to reduce the load on the call center. Implement self-service options, or FAQs for common billing queries.
+
+2. **Response Time Optimization:** Pay special attention to calls categorized as "Above SLA." Analyze the reasons for delays and take measures to improve response times. Efficiently handling these calls can enhance customer satisfaction.
+
+3. **Sentiment Analysis:** Addressing negative sentiments is crucial. Identify the root causes of negative customer experiences, such as unresolved issues or lengthy wait times, and work on improving these aspects.
+
+4. **Training and Empowerment:** Provide call center agents with adequate training and tools to handle customer inquiries effectively. Empower them with the knowledge and resources to resolve issues promptly.
+
+5. **Channel Diversification:** Explore the possibility of diversifying communication channels further. Enhance the capabilities of the "Chatbot," and consider expanding the use of "Email" and "Web" channels for specific types of inquiries.
+
+6. **Customer Education:** Educate customers about the available communication channels and self-service options to encourage the use of more efficient channels for certain types of inquiries.
 
 
 
