@@ -1,5 +1,9 @@
 # Data-Cleaning-with-Excel
 
+**About Dataset** 
+
+This dataset was obtained from here; it  contains about 32,941 rows and 10 columns
+
 1. **Id:** A unique identifier for each customer support interaction.
 
 2. **Customer_Name:** The name of the customer who initiated the support interaction
@@ -31,17 +35,17 @@ To check out for duplicate values
 
 
 
-To format the time column
-I first highlighted the time column and navigated to Data, then Text- to-column and left the delimiter unchanged, clicked on Date and changed the date format to MDY and clicked on finish
+I checked out for the datatype of each column and noticed that the Time column is in Text datatype so I need to change it,
+I first highlighted the time column and navigated to Data, then Text-to-column and left the delimiter unchanged, clicked on Date and changed the date format to MDY to the format that the Date column is currently having, and clicked on finish
 
 ![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/be8cb3f7-7683-4d76-8294-9d90c11075bd)
 
-To capitalize the first letters of the column, I started by inserting a new row A2, and then entered the Formula below
+To make a header row for columns so as to distinguish it from other rows, I first started by capitalizing the first letters of the column, I then started by inserting a new row A2, and then entered the Formula below
 
 ![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/c1b02ea4-1906-4e69-875e-beb814c02da5)
 
  
-So as to retain the result from the formula, I copied my result, then clicked on A2 again  but navigated to the Home tab and Paste then clicked on values to paste it back, then went ahead to delete the rows containing the unedited column title
+So as to retain the result from the formula, I copied my result, then clicked on A2 again  but navigated to the Home tab and pasted, then clicked on values to paste it back, then went ahead to delete the rows containing the unedited column title
 
 ![image](https://github.com/Chichi126/Data-Cleaning-with-Excel/assets/140970592/fb69cd96-f555-44a3-bd9f-94d1d9804807)
 
